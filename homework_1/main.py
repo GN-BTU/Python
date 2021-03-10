@@ -1,3 +1,7 @@
+'''
+დავალება - https://classroom.btu.edu.ge/uploads/14/14612.pdf
+'''
+
 class Calculator:
     @staticmethod
     def add(num_1, num_2):
